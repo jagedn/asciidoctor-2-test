@@ -1,0 +1,23 @@
+== Course B
+:doctype: book
+:source-highlighter: rouge
+:rouge-theme: github
+:rouge-style: github
+:idprefix:
+:idseparator: -
+:imagesdir: images
+:toc:
+:docinfo: html
+
+this is the material for Course B
+
+include::{general_snippets}/welcome.adoc[]
+
+== Example
+
+[source,groovy]
+----
+include::{snippets}/Test.groovy[]
+----
+
+include::{general_snippets}/copyright.adoc[]
