@@ -11,7 +11,7 @@
 
 this is the material for Course A
 
-include::{general_snippets}/welcome.adoc[]
+include::{general_snippets}/2018/welcome.adoc[]
 
 == Example
 
